@@ -26,7 +26,7 @@ System.out.println("What is your name, Trainer?");
     
     System.out.print("Get ready for battle Trainer ");
 System.out.println(tNameString);
-
+// hai halo
      Scanner tPokemon = new Scanner(System.in);
 System.out.println("Choose a Pokemon : \n" +"1) Chimcar\n" +"2) Piplup\n" +"3) Turtwig");
 
